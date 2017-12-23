@@ -1,5 +1,4 @@
 body {
-    /* background: #f06226; */
     color: #fff;
     font-family: 'Arial';
     background-image: url("../images/random_grey_variations.png");
@@ -7,7 +6,6 @@ body {
 
 #container {
     width:60%;
-    /* background: #199fdb; */
     background: #304f5e; 
     margin: 20px auto;
     overflow: auto;
@@ -24,6 +22,9 @@ header {
 header h1 {
     margin:0;
     padding:0;
+    font-family: 'Sedgwick Ave Display', cursive;
+    Color: #f77740;
+    font-size: 4em;
 }
 
 section {
