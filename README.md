@@ -1,4 +1,4 @@
-# TriviaGame
+# Trivia Game
 Trivia Game is a javascript application using timers to allow users to take a triva quiz.
 
 # How the program works
